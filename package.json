@@ -1,0 +1,19 @@
+{
+  "name": "upshift-redis-backup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "backup": "dotenv -e .env -- node lib/redis-backup.js backup",
+    "restore": "dotenv -e .env -- node lib/redis-backup.js restore"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.26.0",
+  "dependencies": {
+    "@upstash/redis": "^1.36.1",
+    "dotenv-cli": "^11.0.0"
+  }
+}
