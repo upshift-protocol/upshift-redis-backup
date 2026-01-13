@@ -2,8 +2,8 @@ name: Redis Backup
 
 on:
   schedule:
-    # Run every 3 hours
-    - cron: '0 */3 * * *'
+    # Run every 12 hours
+    - cron: '0 */12 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
