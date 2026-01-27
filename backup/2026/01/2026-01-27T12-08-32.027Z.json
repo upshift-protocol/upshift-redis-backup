@@ -21,7 +21,8 @@
         "farmbold": {
           "symbol": "farmBOLD",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-farmBOLD/1.0.0/gn",
-          "address": "0xb2FdA773822E5a04c8A70348d66257DD5Cf442DB"
+          "address": "0xb2FdA773822E5a04c8A70348d66257DD5Cf442DB",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-farmBOLD-receipt/1.0.0/gn"
         },
         "coreusdc": {
           "symbol": "coreUSDC",
@@ -51,7 +52,8 @@
         "senteth": {
           "symbol": "sentETH",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-sentETH-mainnet/1.0.0/gn",
-          "address": "0xD0271E199f886Ff943859579465498B18eCF1E9d"
+          "address": "0xD0271E199f886Ff943859579465498B18eCF1E9d",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-sentETH-receipt/1.0.0/gn"
         },
         "susdt": {
           "symbol": "sUSDT",
@@ -61,7 +63,8 @@
         "upnusd": {
           "symbol": "upNUSD",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-upNUSD/1.0.0/gn",
-          "address": "0xAEEb2fB279a5aA837367B9D2582F898a63b06ca1"
+          "address": "0xAEEb2fB279a5aA837367B9D2582F898a63b06ca1",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-upNUSD-receipt/1.0.0/gn"
         },
         "upgammausdc": {
           "symbol": "upGAMMAusdc",
@@ -71,7 +74,8 @@
         "apusdc": {
           "symbol": "apUSDC",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-apUSDC/1.0.0/gn",
-          "address": "0xA38d92eC538e9aa3edb980b89701A9d38a1FE015"
+          "address": "0xA38d92eC538e9aa3edb980b89701A9d38a1FE015",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-apUSDC-receipt/1.0.0/gn"
         },
         "tacusr": {
           "symbol": "tacUSR",
@@ -91,7 +95,8 @@
         "hlpe": {
           "symbol": "HLPe",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-hyperevm-HLPe/1.0.0/gn",
-          "address": "0x8fFDcd8A96d293f45aA044d10b899F9D71897E8a"
+          "address": "0x8fFDcd8A96d293f45aA044d10b899F9D71897E8a",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-hyperevm-HLPe-receipt/1.0.0/gn"
         },
         "upausd": {
           "symbol": "upAUSD",
@@ -106,17 +111,20 @@
         "wildusd": {
           "symbol": "wildUSD",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-wildUSD/1.0.0/gn",
-          "address": "0x18EE038C114a07f4B08b420fb1E4149a4F357249"
+          "address": "0x18EE038C114a07f4B08b420fb1E4149a4F357249",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-wildUSD-receipt/1.0.0/gn"
         },
         "sentbtc": {
           "symbol": "sentBTC",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-sentBTC/1.0.0/gn",
-          "address": "0x3cC0D33B1AEac3d23eA89214b3AC5B4607032167"
+          "address": "0x3cC0D33B1AEac3d23eA89214b3AC5B4607032167",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-sentBTC-receipt/1.0.0/gn"
         },
         "k3europ": {
           "symbol": "k3EUROP",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-k3EUROP/1.0.0/gn",
-          "address": "0x0243755a22E37b835486fdAE9A839523ADABd336"
+          "address": "0x0243755a22E37b835486fdAE9A839523ADABd336",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-k3EUROP-receipt/1.0.0/gn"
         },
         "ageth": {
           "symbol": "agETH",
@@ -126,7 +134,8 @@
         "sentusd": {
           "symbol": "sentUSD",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-sentUSD/1.0.0/gn",
-          "address": "0x74aD2F789Ed583DBd141bbdafC673fE1F033718b"
+          "address": "0x74aD2F789Ed583DBd141bbdafC673fE1F033718b",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-sentUSD-receipt/1.0.0/gn"
         },
         "musd": {
           "symbol": "mUSD",
@@ -140,8 +149,9 @@
         },
         "pregrid": {
           "symbol": "preGRID",
-          "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-k3EUROP/1.0.0/gn",
-          "address": "0x7b2B5B1c2710C7253ED6cbC912BB5f66B5A21649"
+          "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-preGRID/1.0.0/gn",
+          "address": "0x49494d2bdee729fb23334f3c58b73b5ebede7556",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-preGRID-receipt/1.0.0/gn"
         },
         "upedge": {
           "symbol": "upEDGE",
@@ -191,7 +201,8 @@
         "supermon": {
           "symbol": "superMON",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-monad-superMON/1.0.0/gn",
-          "address": "0x792C7c5fB5C996E588b9F4A5FB201C79974e267C"
+          "address": "0x792C7c5fB5C996E588b9F4A5FB201C79974e267C",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-monad-superMON-receipt/1.0.0/gn"
         },
         "upinjusdt": {
           "symbol": "upINJUSDT",
@@ -201,12 +212,14 @@
         "tivkbtc": {
           "symbol": "TIVKBTC",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-ink-TIVKBTC/1.0.0/gn",
-          "address": "0x71BE0E419FbB98762C7b6D9e81EaFdA99363333c"
+          "address": "0x71BE0E419FbB98762C7b6D9e81EaFdA99363333c",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-ink-TIVKBTC-receipt/1.0.0/gn"
         },
         "upyzusd": {
           "symbol": "upyzUSD",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-plasma-upyzUSD/1.0.0/gn",
-          "address": "0x517677A19D8ae6FF600FB86C3C7bFCCD651e3eec"
+          "address": "0x517677A19D8ae6FF600FB86C3C7bFCCD651e3eec",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-plasma-upyzUSD-receipt/1.0.0/gn"
         },
         "uptbtc": {
           "symbol": "uptBTC",
@@ -231,7 +244,8 @@
         "xlp": {
           "symbol": "xlp",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/hyperevm-xlp/1.0.0/gn",
-          "address": "0xB075dd7D4cC561928665522e713027fe5Cf7F7cb"
+          "address": "0xB075dd7D4cC561928665522e713027fe5Cf7F7cb",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-hyperevm-xlp-receipt/1.0.0/gn"
         },
         "gteth": {
           "symbol": "gtETH",
@@ -261,12 +275,14 @@
         "earnxrp": {
           "symbol": "earnXRP",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-flare-earnXRP/1.0.0/gn",
-          "address": "0x373D7d201C8134D4a2f7b5c63560da217e3dEA28"
+          "address": "0x373D7d201C8134D4a2f7b5c63560da217e3dEA28",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-flare-earnXRP-receipt/1.0.0/gn"
         },
         "earnmon": {
           "symbol": "earnMON",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-monad-earnMON/1.0.0/gn",
-          "address": "0x5E7568bf8DF8792aE467eCf5638d7c4D18A1881C"
+          "address": "0x5E7568bf8DF8792aE467eCf5638d7c4D18A1881C",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-monad-earnMON-receipt/1.0.0/gn"
         },
         "hgeth": {
           "symbol": "hgETH",
@@ -276,17 +292,25 @@
         "svusdc": {
           "symbol": "svUSDC",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-svUSDC/1.0.0/gn",
-          "address": "0xd411aCaE2Bc7019322277A21ff005d94705661C5"
+          "address": "0xd411aCaE2Bc7019322277A21ff005d94705661C5",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-svUSDC-receipt/1.0.0/gn"
         },
         "tivusdt0": {
           "symbol": "TIVUSDT0",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-ink-TIVUSDT0/1.0.0/gn",
-          "address": "0x727e37b4252B8a200D32445F2aFB741A308c55F0"
+          "address": "0x3260d0231bf51452519f67d9333fc01ed6839ee9",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-ink-TIVUSDT0-receipt/1.0.0/gn"
         },
         "tac-teth": {
           "symbol": "tac-tETH",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-tactETH/1.0.0/gn",
           "address": "0xf7b65fBA4d02110089fC6e2bE6d73809b45852f8"
+        },
+        "predlp": {
+          "symbol": "preDLP",
+          "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-preDLP/1.0.0/gn",
+          "address": "0xaBC578B79892FC0Dc2906Ab5749862622aD38695",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-eth-preDLP-receipt/1.0.0/gn"
         },
         "alpinebtc": {
           "symbol": "AlpineBTC",
@@ -301,7 +325,8 @@
         "earnausd_monad": {
           "symbol": "earnAUSD_monad",
           "subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-monad-earnAUSD/1.0.0/gn",
-          "address": "0x36eDbF0C834591BFdfCaC0Ef9605528c75c406aA"
+          "address": "0x36eDbF0C834591BFdfCaC0Ef9605528c75c406aA",
+          "receipt_subgraph": "https://api.goldsky.com/api/private/project_cm9g0xy3o4j6v01vd34r3hvv9/subgraphs/august-monad-earnAUSD-receipt/1.0.0/gn"
         },
         "wbtc/ausd": {
           "symbol": "wBTC/AUSD",
